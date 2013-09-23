@@ -1,0 +1,7 @@
+
+Для создания базы в PostgreSQL(9.1)
+$: sudo -i
+$: su -l postgres
+$: psql
+$: create role system login password 'system';
+$: create database travin_test with owner=system;

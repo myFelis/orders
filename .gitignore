@@ -1,4 +1,10 @@
-*.py[cod]
+*.pyc
+*.idea
+settings_local.py
+logs
+media
+
+/env
 
 # C extensions
 *.so
