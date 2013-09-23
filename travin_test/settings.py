@@ -93,8 +93,8 @@ INSTALLED_APPS = (
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
     'core',
-    'order_system',
     'client',
+    'order_system',
     'south'
 )
 
